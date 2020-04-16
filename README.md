@@ -1,6 +1,5 @@
 [![Build 
 Status](https://travis-ci.org/anadolski/armmwave.svg?branch=master)](https://travis-ci.org/anadolski/armmwave)
-[![codecov](https://codecov.io/gh/anadolski/armmwave/branch/master/graph/badge.svg)](https://codecov.io/gh/anadolski/armmwave)
 ![PyPI](https://img.shields.io/pypi/v/armmwave.svg)
 ![PyPI - License](https://img.shields.io/pypi/l/armmwave.svg)
 # armmwave
